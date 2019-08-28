@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+  "oskar-proxy",
+  "oskar-jose",
+  "oskar-lang"
+]
+

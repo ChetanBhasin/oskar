@@ -1,0 +1,8 @@
+[package]
+name = "oskar-jose"
+version = "0.1.0"
+authors = ["Chetan Bhasin <connect@chetanbhasin.com>"]
+edition = "2018"
+
+[dependencies]
+ring = "0.16.7"
